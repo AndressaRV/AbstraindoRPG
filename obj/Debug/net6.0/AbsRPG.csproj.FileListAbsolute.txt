@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\bin\Debug\net6.0\AbsRPG.exe
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\bin\Debug\net6.0\AbsRPG.deps.json
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\bin\Debug\net6.0\AbsRPG.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\bin\Debug\net6.0\AbsRPG.dll
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\bin\Debug\net6.0\AbsRPG.pdb
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.dll
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\refint\AbsRPG.dll
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.pdb
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\AbsRPG.genruntimeconfig.cache
+C:\Users\User\Desktop\Estudos\DIO\Carrefour Woman\AbstraindoRPGC\obj\Debug\net6.0\ref\AbsRPG.dll
